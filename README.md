@@ -133,8 +133,7 @@ look around and explore different properties of DOM elements.
 Let's adjust the display:
 
 ``` javascript
-element.style.textAlign = 'center';
-ul.style.textAlign = 'left'
+
 ```
 
 That's better.
